@@ -1,0 +1,21 @@
+
+
+String como referencias
+
+Multiherencia para hacer con json types y no repetir funciones, o utilizar templates
+
+Por motivos de tiempo no he comentado todo el codigo, pero he decidido utilizar NOTE para explicar partes "interesntes", abstract factory, DAO, inversion + inyeccion de dependecias, templates, STL, move,...Para ahorrar tiempo no he sido muy purista en todos los aspectos, por eso he decidido anotar con un NOTE.
+El enfoque que se le ha dado en muchos casos es el de applicar tecnicas de ingeniería de software, no el de hacer un sistema a gran escala. En muchos casos
+se han empleado malas técnicas, antipatrones, bad smells,... con el objetivo de agilizar el final del proyecto. Las partes 
+
+Namespaces
+
+Anotar:
+-Abstract Factory
+-Map, unordered map
+-Inversión-Inyección de dependencias
+-Arquitectura por capas
+-Conan
+-State pattern
+-Unique y explicar move
+-Shared, y explicar por qué no puede ser unique
