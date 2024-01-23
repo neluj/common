@@ -1,9 +1,9 @@
-#include <ui/consoleUI.h>
+//#include <ui/consoleUI.h>
 
 int main(void) {
    
-    ConsoleUI ui;
-    ui.run();
+    //ConsoleUI ui;
+    //ui.run();
 
     return 0;
 }

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc.a CMakeFiles/src.dir/lodging.cpp.o CMakeFiles/src.dir/offer.cpp.o CMakeFiles/src.dir/user.cpp.o CMakeFiles/src.dir/lodgingRepositoryJSON.cpp.o CMakeFiles/src.dir/lodgingRepositoryXML.cpp.o
+/usr/bin/ranlib libsrc.a

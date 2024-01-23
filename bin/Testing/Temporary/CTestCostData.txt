@@ -1,0 +1,3 @@
+RentLodging_test 0 0
+---
+RentLodging_test

@@ -9,7 +9,7 @@ El enfoque que se le ha dado en muchos casos es el de applicar tecnicas de ingen
 se han empleado malas técnicas, antipatrones, bad smells,... con el objetivo de agilizar el final del proyecto. Las partes 
 
 Namespaces
-
+/////Escribir en readme
 Anotar:
 -Abstract Factory
 -Map, unordered map
@@ -19,3 +19,14 @@ Anotar:
 -State pattern
 -Unique y explicar move
 -Shared, y explicar por qué no puede ser unique
+
+
+/////
+Importante:
+Rename CMake library names
+Conan red letters
+update conan package versions
+No Hardcodear ids
+
+Extra:
+Assert

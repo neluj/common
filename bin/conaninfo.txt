@@ -1,0 +1,45 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=11
+    os=Linux
+
+[requires]
+    gtest/cci.20210126
+    nlohmann_json/3.Y.Z
+    tinyxml2/9.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    arch_build=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=11
+    os=Linux
+    os_build=Linux
+
+[full_requires]
+    gtest/cci.20210126:473fac5a451159bef91e2252b31a075ead43201f
+    nlohmann_json/3.10.5:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    tinyxml2/9.0.0:d8d8aba822aaa76849d2f1bafe4a2a62a9f83b74
+
+[full_options]
+    gtest:build_gmock=True
+    gtest:fPIC=True
+    gtest:hide_symbols=False
+    gtest:no_main=False
+    gtest:shared=False
+    tinyxml2:fPIC=True
+    tinyxml2:shared=False
+
+[recipe_hash]
+
+
+[env]
+

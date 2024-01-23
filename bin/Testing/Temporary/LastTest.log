@@ -1,0 +1,19 @@
+Start testing: Jan 23 00:52 CET
+----------------------------------------------------------
+1/1 Testing: RentLodging_test
+1/1 Test: RentLodging_test
+Command: "/home/julen/code/common/bin/test/RentLodging_test"
+Directory: /home/julen/code/common/bin/test
+"RentLodging_test" start time: Jan 23 00:52 CET
+Output:
+----------------------------------------------------------
+munmap_chunk(): invalid pointer
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"RentLodging_test" end time: Jan 23 00:52 CET
+"RentLodging_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 23 00:52 CET

@@ -1,6 +1,0 @@
-[requires]
-nlohmann_json/3.10.5
-tinyxml2/9.0.0
-
-[generators]
-cmake

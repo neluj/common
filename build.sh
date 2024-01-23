@@ -6,8 +6,8 @@ mkdir bin
 
 cd bin
 
-conan install ../src
+conan install ..
 
-cmake ../src
+cmake ..
 
 make
